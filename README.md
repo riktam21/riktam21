@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/riku_boi" target="blank"><img src="https://img.shields.io/twitter/follow/riku_boi?logo=twitter&style=for-the-badge" alt="riku_boi" /></a> </p>
 
-- 🌱 I’m currently learning **React, Machine Learning**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
